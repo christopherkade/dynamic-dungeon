@@ -10,7 +10,7 @@ const Hero = () => {
   return (
     <section className="bg-cover bg-no-repeat bg-center bg-[url('/hero.jpeg')] bg-blend-multiply bg-gray-500">
       <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16">
-        <h1 className="mb-4 text-4xl tracking-tight leading-none text-gray-900 md:text-3xl lg:text-6xl dark:text-white font-extralight">
+        <h1 className="mb-4 text-4xl tracking-tight leading-none text-gray-900 md:text-3xl lg:text-5xl dark:text-white font-extralight">
           New adventures at every corner
         </h1>
         <p className="mb-8 text-lg font-extralight text-gray-300 lg:text-xl sm:px-16 lg:px-48">
